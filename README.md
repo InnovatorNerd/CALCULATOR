@@ -64,7 +64,7 @@ export default function App() {
 
       {/* Footer */}
       <View style={styles.footer}>
-        <Text style={styles.footerText}>Designed by Satyam</Text>
+        <Text style={styles.footerText}>Calc by Satyam</Text>
       </View>
     </SafeAreaView>
   );
